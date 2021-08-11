@@ -1,2 +1,3 @@
-examples/test.txt
-*.mp3
+examples/
+todo.txt
+test.*
